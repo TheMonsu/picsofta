@@ -1,0 +1,35 @@
+body {
+    background-color: #99D4E8;
+}
+.navigation {
+	background-color: #78ADBF;
+	font-size: 20px;
+	padding: 10px 20px;
+}
+.navigation li {
+	padding: 20px 20px;;
+	display: inline;
+}
+
+.title {
+	background-color: #78ADBF;
+	font-size: 40px;
+}
+
+.title .container{
+	position: relative;
+	top: 100px;
+	color: white;
+}
+.image {
+	background-color: black;
+	height: 500px
+}
+
+.image .container {
+	position: relative;
+}
+
+.comments {
+	background-color: #78ADBF;
+}
